@@ -65,13 +65,10 @@ The dataset includes:
 
 ## 🖼 Dashboard Screenshots
 
-screenshots/
-├── overview.png
-├── pipeline_stage_analysis.png
-├── time_spent_analysis.png
-├── key_account_analysis.png
-
+### Dashboard Overview 
 ![](Screenshot_20260207-130606.png)
+### Key Account Analysis
+![](Screenshot_20260207-141958.png)
 
 
 ---
