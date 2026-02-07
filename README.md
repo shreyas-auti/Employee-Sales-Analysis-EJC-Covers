@@ -65,20 +65,14 @@ The dataset includes:
 
 ## 🖼 Dashboard Screenshots
 
-> 📌 Add screenshots in a folder named `/screenshots` and reference them below.
-
-```
 screenshots/
 ├── overview.png
 ├── pipeline_stage_analysis.png
 ├── time_spent_analysis.png
 ├── key_account_analysis.png
-```
 
-Example:
-```md
 ![Sales Pipeline Overview](screenshots/overview.png)
-```
+
 
 ---
 
@@ -99,21 +93,6 @@ Example:
 - Conduct **regular pipeline reviews** for high-value deals  
 - Improve **CRM discipline** by mapping time spent to projects  
 - Shift focus from volume of leads to **conversion quality**
-
----
-
-## 📂 Repository Structure
-
-```
-├── Dashboard.pbix
-├── Presentation_on_employee_sales_analysis.pdf
-├── screenshots/
-│   ├── overview.png
-│   ├── pipeline_stage_analysis.png
-│   ├── time_spent_analysis.png
-│   └── key_account_analysis.png
-├── README.md
-```
 
 ---
 
