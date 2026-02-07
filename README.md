@@ -71,7 +71,7 @@ screenshots/
 ├── time_spent_analysis.png
 ├── key_account_analysis.png
 
-screenshots/overview.png
+![](Screenshot_20260207-130606.png)
 
 
 ---
