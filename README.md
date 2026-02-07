@@ -66,9 +66,11 @@ The dataset includes:
 ## 🖼 Dashboard Screenshots
 
 ### Dashboard Overview 
-![](Screenshot_20260207-130606.png)
+
+![](Screenshot_20260207-141555.png)
 
 ### Key Account Analysis
+
 ![](Screenshot_20260207-141958.png)
 
 
