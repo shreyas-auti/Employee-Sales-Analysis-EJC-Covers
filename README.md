@@ -71,7 +71,7 @@ screenshots/
 ├── time_spent_analysis.png
 ├── key_account_analysis.png
 
-![Sales Pipeline Overview](screenshots/overview.png)
+!(screenshots/overview.png)
 
 
 ---
