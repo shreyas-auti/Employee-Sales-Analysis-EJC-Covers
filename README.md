@@ -71,7 +71,7 @@ screenshots/
 ├── time_spent_analysis.png
 ├── key_account_analysis.png
 
-!(screenshots/overview.png)
+screenshots/overview.png
 
 
 ---
