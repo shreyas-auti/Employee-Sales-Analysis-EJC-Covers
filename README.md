@@ -1,8 +1,5 @@
 # 📊 Employee Sales Analysis – EJC Covers (Power BI)
 
-**GitHub Repository Description:**  
-Employee-level sales performance and pipeline analysis using Power BI to identify conversion gaps, time inefficiencies, and key account blind spots.
-
 **Tags:**  
 `power-bi` `sales-analytics` `business-intelligence` `dashboard` `data-analysis` `crm-analytics`
 
